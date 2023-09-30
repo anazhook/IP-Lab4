@@ -1,0 +1,21 @@
+2
+Zhuk Anastasia Vitalievna 2 6
+2
+1 3
+Mathematical Analysis 9
+Algebra and Geometry 5
+Basic Programming 8
+2 3
+Mathematical Analysis 8
+Linear Algebra 6
+Object Oriented Programming 7
+Kovalevsiy Stepan Pavlovich 4 1
+2
+1 3
+Mathematical Analysis 9
+Algebra and Geometry 9
+Basic Programming 10
+2 3
+Differential Equations 10
+Linear Algebra 9
+Object Oriented Programming 10

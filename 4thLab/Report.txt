@@ -1,0 +1,18 @@
+Zhuk Anastasia Vitalievna  year: 2 group: 6
+Mathematical Analysis  9
+Algebra and Geometry  5
+Basic Programming  8
+Mathematical Analysis  8
+Linear Algebra  6
+Object Oriented Programming  7
+Not an excellent student 
+
+Kovalevsiy Stepan Pavlovich  year: 4 group: 1
+Mathematical Analysis  9
+Algebra and Geometry  9
+Basic Programming  10
+Differential Equations  10
+Linear Algebra  9
+Object Oriented Programming  10
+Excellent student 
+
